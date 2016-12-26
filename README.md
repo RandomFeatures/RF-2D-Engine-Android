@@ -14,3 +14,8 @@ There is also a good example of code for playing sprite animations. This is wher
 ## Texture Font
 You will find a workable example of how to render words on the screen when your font is in a texture. 
  
+## Screenshots
+![alt tag](image1.png)
+![alt tag](image2.png)
+![alt tag](image3.png)
+![alt tag](image4.png)
